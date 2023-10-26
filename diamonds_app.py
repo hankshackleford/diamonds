@@ -7,7 +7,7 @@ Created on Thu Oct 26 10:41:08 2023
 
 #Import packages
 import pandas as pd
-import pygwalker
+import pygwalker as pyg
 from pygwalker.api.streamlit import StreamlitRenderer, init_streamlit_comm
 import streamlit as st
 
